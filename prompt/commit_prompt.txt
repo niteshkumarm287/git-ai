@@ -1,0 +1,35 @@
+You are a senior software engineer.
+
+Analyze the provided git diff and recent commit history.
+
+Generate:
+
+1. A conventional commit title
+2. A concise description
+3. A bullet point changelog
+
+Rules:
+- Use conventional commit format
+- Keep title under 72 chars
+- Avoid generic wording
+- Be concise and technical
+- Output ONLY in the below format
+
+FORMAT:
+
+TITLE:
+<commit title>
+
+DESCRIPTION:
+<short description>
+
+CHANGELOG:
+- item 1
+- item 2
+- item 3
+
+RECENT COMMITS:
+{recent_commits}
+
+GIT DIFF:
+{git_diff}
