@@ -180,3 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💡 [Request features](https://github.com/niteshkumarm287/git-ai/issues)
 - 💬 [Ask questions](https://github.com/niteshkumarm287/git-ai/discussions)
 
+## Development and review
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for local checks, configuration handling, and the review workflow.
